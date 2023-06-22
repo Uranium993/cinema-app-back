@@ -11,7 +11,7 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="jwd-m3-t5-spring-security-end" target="1.8" />
+      <module name="jwd-m3-t5-spring-security-end" target="11" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
