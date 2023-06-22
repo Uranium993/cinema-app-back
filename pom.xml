@@ -19,7 +19,6 @@
 	<packaging>jar</packaging>
 
 	<name>CinemaApplication</name>
-	<url>http://www.example.com</url>
 
 	<properties>
 		<start-class>com.cinema.CinemaApplication</start-class>
