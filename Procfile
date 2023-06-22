@@ -1,0 +1,1 @@
+web: java -server.port=$PORT $JAVA_OPTS -jar target/Cinema.jar
