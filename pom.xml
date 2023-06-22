@@ -16,7 +16,7 @@
 	<artifactId>CinemaApplication</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	
-	<packaging>war</packaging>
+	<packaging>jar</packaging>
 
 	<name>CinemaApplication</name>
 	<url>http://www.example.com</url>
